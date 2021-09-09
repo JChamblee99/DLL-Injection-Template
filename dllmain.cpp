@@ -1,4 +1,4 @@
-#include <Windows.h>
+#include <windows.h>
 
 DWORD WINAPI MainThread(LPVOID param) {
 	while (true) {
